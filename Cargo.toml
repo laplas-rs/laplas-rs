@@ -1,0 +1,16 @@
+[package]
+name = "laplas"
+version = "0.0.0"
+authors = ["Sergey Zharkov <70puf4bx9@relay.firefox.com>"]
+edition = "2018"
+license = "MIT"
+description = ""
+homepage = "https://github.com/laplas-rs/laplas-rs"
+documentation = ""
+repository = "https://github.com/laplas-rs/laplas-rs.git"
+readme = ""
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
